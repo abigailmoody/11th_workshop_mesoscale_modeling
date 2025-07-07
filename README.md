@@ -12,7 +12,7 @@
 | Monday    | [Stuff](Monday/README.md)           |              
 | Tuesday   | [Stuff](Tuesday/README.md)        |                
 | Wednesday | [Stuff](Wednesday/README.md)                    |        
-| Thursday | [Stuff)(Thursday/README.md)                |               
+| Thursday | [Stuff](Thursday/README.md)                |               
 | Friday    | [Stuff](Friday/README.md)     	      	    |         
 
 ### Post-workshop
