@@ -7,6 +7,8 @@
 
 ### Workshop Material
 
+[Home base](https://docs.google.com/document/d/1FSj_oGL3tjJQOX5Tkw2GlpHLJmT83bP9Njc4By_b8lU/edit?tab=t.uqfnhcd948cy)
+
 | Session             |   Description and links      |
 |---------------------|---------------------|
 | Monday    | [Stuff](Monday/README.md)           |              
