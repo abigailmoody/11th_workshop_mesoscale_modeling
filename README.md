@@ -3,7 +3,8 @@
 ### Dates: July 21-25, 2025
 
 ### Requirements:
-[See the following link for setting up software](setup.md)
+All of the examples this week will leverage [hoomd-blue](https://hoomd-blue.readthedocs.io/en/v5.3.0/) and occasionally the [azplugins](https://azplugins.readthedocs.io/en/stable/) plugins for hoomd-blue. 
+We have a conda environment built for [Bridges2 OnDemand](https://ondemand.bridges2.psc.edu/) that works on both cpu and gpu nodes, and all of the notebooks will be run there interactively. 
 
 ### Workshop Material
 
