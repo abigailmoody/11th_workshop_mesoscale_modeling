@@ -11,8 +11,8 @@
 
 | Session             |   Description and links      |
 |---------------------|---------------------|
-| Monday    | [Stuff](Monday/README.md)           |              
-| Tuesday   | [Stuff](Tuesday/README.md)        |                
+| Monday    | [Coarse-grained models](Monday/README.md)           |              
+| Tuesday   | [Molecular dynamics and Langevin dynamics](Tuesday/README.md)        |                
 | Wednesday | [Stuff](Wednesday/README.md)                    |        
 | Thursday | [Stuff](Thursday/README.md)                |               
 | Friday    | [Stuff](Friday/README.md)     	      	    |         
